@@ -94,7 +94,7 @@ Focus sprint 16 - De focus van deze sprint ligt op het hergebruik van code en on
 
 Deze deeltaak hoort bij het gedragscriterium: 
 
-Samenwerken: Draagt verantwoording voor eigen resultaten, benoemt teamresultaten en informeert belanghebbenden over de voortgang.
+Samenwerken: Je draagt verantwoording voor eigen resultaten, benoemt teamresultaten en informeert belanghebbenden over de voortgang.
 
 Deze opdracht is done als:
 
