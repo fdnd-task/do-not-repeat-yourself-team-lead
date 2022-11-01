@@ -2,10 +2,10 @@
 Ontwerp en maak voor een opdrachtgever een component of website op basis van een bestaande huisstijl 
 
 ## Context
-Deze leertaak hoort bij sprint 4 Look and Feel. Dit is een opdracht die je individueel uitvoert voor een opdrachtgever.
+Deze leertaak hoort bij sprint 16 Don't Repeat Yourself. Dit is een opdracht die je individueel uitvoert.
 
 ## Doel van deze opdracht
-Je leert hoe onderdelen van een website op basis van een bestaande huisstijl maakt.
+Eerste jaars studenten helpen met de living stylguide inrichten
 
 ## Werkwijze
 Bij elke leertaak wordt de development-lifecycle doorlopen. Hierdoor ontwikkel je een standaard aanpak voor frontend praktijkvraagstukken, werk je systematisch aan leertaken, ervaar je de relevantie van het geleerde en verwerf je de kennis, houding en vaardigheden die de beroepspraktijk van je vraagt.
