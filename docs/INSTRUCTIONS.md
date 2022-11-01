@@ -1,7 +1,7 @@
 
 # Don't Repeat Yourself - Team Lead
 
-begeleid een team frontenders bij het ontwerpen en maken van een living styleguide
+Begeleid een team frontenders bij het ontwerpen en maken van een living styleguide.
 
 ## Context
 
