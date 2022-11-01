@@ -1,4 +1,4 @@
-# Naam
+# Teamlead
 Ontwerp en maak voor een opdrachtgever een component of website op basis van een bestaande huisstijl 
 
 ## Context
