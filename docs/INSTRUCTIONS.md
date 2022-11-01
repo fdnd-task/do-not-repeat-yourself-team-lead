@@ -26,12 +26,13 @@ De development lifecycle kent de volgende stappen:
 
 ## Criteria
 
-De focus van deze sprint ligt op het toepassen van een huisstijl en het maken van formulieren.
+Focus sprint 16 - De focus van deze sprint ligt op ...
 
-Voor deze leertaak gelden de gedragscriteria voor sprint 16: 
+Deze deeltaak hoort bij het gedragscriterium: 
 
 S: Draagt verantwoording voor eigen resultaten, benoemt teamresultaten en informeert belanghebbenden over de voortgang.
 
 Deze opdracht is done als:
+
 - [ ] 
 
