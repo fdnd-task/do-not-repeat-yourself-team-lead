@@ -1,38 +1,106 @@
-# Teamlead
-Ontwerp en maak voor een opdrachtgever een component of website op basis van een bestaande huisstijl 
+
+# Don't Repeat Yourself - Team Lead
+
+begeleid een team frontenders bij het ontwerpen en maken van een living styleguide
 
 ## Context
-Deze leertaak hoort bij sprint 16 Don't Repeat Yourself. Dit is een opdracht die je individueel uitvoert.
+
+Deze leertaak hoort bij sprint 14 Don't Repeat Yoursel. Dit is een deeltaak die je in een team] uitvoert.
+
+In het college [[collegenaam](link)] wordt behandeld ... 
+
 
 ## Doel van deze opdracht
-Eerste jaars studenten helpen met de living stylguide inrichten
+
+Je leert hoe je ... 
+
 
 ## Werkwijze
-Bij elke leertaak wordt de development-lifecycle doorlopen. Hierdoor ontwikkel je een standaard aanpak voor frontend praktijkvraagstukken, werk je systematisch aan leertaken, ervaar je de relevantie van het geleerde en verwerf je de kennis, houding en vaardigheden die de beroepspraktijk van je vraagt.
-De development lifecycle kent de volgende stappen:
+![Opdrachtomschrijving](opdrachtomschrijving.png)
 
-1. Analyseren - bijvoorbeeld: grip krijgen op een taak door gesprekken met een opdrachtgever, schrijven van een debriefing, maken van een todo lijst, inventarisatie van bestaande informatie, overzicht creëren, plannen, definition of done etc.
-2. Ontwerpen - bijvoorbeeld: het maken van idee-schetsen, customer journey, breakdown chart, wireflows, navigatiestructuur en layout.
-3. Bouwen - bijvoorbeeld: toepassen van webtechnologie (HTML, CSS, JS), gebruik van tooling, werken volgens conventies en wetgeving, documenteren en bijhouden van een changelog.
-4. Integreren - bijvoorbeeld: publiceren, live zetten, uploaden naar de server, toevoegen in een bestaand systeem, ftp-en.
-5. Testen - bijvoorbeeld: Unit testing (TDD), System test, User test, device lab test, A\B testing.
+*Hoe pak je dit aan, in welke fases van de DLC*
 
-### Aanpak
-1. Kies een user story uit de backlog van het project waar je aan gaat werken. De projecten staan bij [FDND Agency](https://github.com/fdnd-agency).  
-2. Fork deze leertaak
-3. Kopieer/plak de user story waar jij aan gaat werken naar de Wiki van de geforkte repository, dit ga je ontwerpen en maken
-4. Documenteer je proces a.h.v de development life cycle
-5. En schrijf een goede readme
+Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen)
+
+### Analyseren
+Uitleg..
+
+#### Aanpak
+
+1. ...
+2. ...
+
+#### Materiaal 
+
+- [bron]
+- [bron]
+
+### Ontwerpen
+Uitleg..
+
+#### Aanpak
+
+1. ...
+2. ...
+
+#### Materiaal 
+
+- [bron]
+- [bron]
+
+
+### Bouwen
+Uitleg..
+
+#### Aanpak
+
+1. ...
+2. ...
+
+#### Materiaal 
+
+- [bron]
+- [bron]
+
+### Integreren
+Uitleg..
+
+#### Aanpak
+
+1. ...
+2. ...
+
+#### Materiaal 
+
+- [bron]
+- [bron]
+- 
+### Testen
+Uitleg..
+
+#### Aanpak
+
+1. ...
+2. ...
+
+#### Materiaal 
+
+- [bron]
+- [bron]
 
 ## Criteria
 
-Focus sprint 16 - De focus van deze sprint ligt op ...
+Focus sprint 16 - De focus van deze sprint ligt op het hergebruik van code en ontwerpelementen.
 
 Deze deeltaak hoort bij het gedragscriterium: 
 
-S: Draagt verantwoording voor eigen resultaten, benoemt teamresultaten en informeert belanghebbenden over de voortgang.
+Samenwerken: Draagt verantwoording voor eigen resultaten, benoemt teamresultaten en informeert belanghebbenden over de voortgang.
 
 Deze opdracht is done als:
 
-- [ ] 
+- [ ] ...
+- [ ] ...
+- [ ] ...
+
+
 
