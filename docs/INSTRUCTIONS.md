@@ -1,106 +1,42 @@
 
-# Don't Repeat Yourself - Team Lead
+# Don't repeat Yourself - Team Lead
 
-Begeleid een team frontenders bij het ontwerpen en maken van een living styleguide.
+The Team Lead role in the Tribe 
 
 ## Context
 
-Deze leertaak hoort bij sprint 14 Don't Repeat Yoursel. Dit is een deeltaak die je in een team] uitvoert.
+Deze deeltaak hoort bij sprint 16 Don't Repeat Yourself. Dit is een deeltaak die je individueel uitvoert.
 
-In het college [[collegenaam](link)] wordt behandeld ... 
+In het college S16W1-01-kickoff-do-not-repeat-yourself wordt de rol van een team-lead besproken.
 
 
 ## Doel van deze opdracht
 
-Je leert hoe je ... 
+Je leert hoe je als 2e jaars student overzicht houd over een project van 1e jaars studenten, de kwaliteit van design en code waarborgt en hoe je een sprint review kan voorbereiden en leiden. 
 
 
 ## Werkwijze
-![Opdrachtomschrijving](opdrachtomschrijving.png)
 
-*Hoe pak je dit aan, in welke fases van de DLC*
+De 1e jaars studenten FDND werken in sprint 2 aan opdrachten voor opdrachtgevers. Dit doen ze in groepen van maximaal 4 studenten. Een 2e jaars student heeft de rol van team-lead. 
 
-Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen)
+Je bent aanwezig bij de sprint planning in week 1, je houdt een vinger aan de pols tijdens de weken en je bent in de _lead_ tijdens de sprint review. 
 
-### Analyseren
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-### Ontwerpen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-
-### Bouwen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-### Integreren
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-- 
-### Testen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
+- Op maandag doe je een stand-up per groepje in de squads, dan bespreek je de werkverdeling. (wat gaan de studenten doen?)
+- Op woensdag  doe je een stand-up per groepje in de squads, dan check je of alles goed gaat. (wat komen de studenten tegen?)
+- Op vrijdag doe je een wrap-up met  de groepen, je bespreekt hoever ze zijn gekomen en op basis van de code/design review worden er issues aangemaakt. (Wat hebben de studenten gedaan?)
+- Aan het eind van de sprit begeleid je de sprint-review met de opdrachtgever.
 
 ## Criteria
 
-Focus sprint 16 - De focus van deze sprint ligt op het hergebruik van code en ontwerpelementen.
+Focus sprint 14 -  In de sprint Don't Repeat Yourself ligt de focus op het hergebruik van code en ontwerpelementen.
+andere projecten.
 
-Deze deeltaak hoort bij het gedragscriterium: 
+Deze deeltaak hoort bij het gedragscriterium:  
+S: Student kan omgaan met diversiteit binnen teams en handelt respectvol naar anderen.
 
-Samenwerken: Je draagt verantwoording voor eigen resultaten, benoemt teamresultaten en informeert belanghebbenden over de voortgang.
+Deze opdracht is done als je:
 
-Deze opdracht is done als:
-
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
-
+- [ ] Aantoonbaar overzicht hebt op een project van eerstejaars studenten
+- [ ] Design en code van een project van eerstejaars studenten hebt gereviewed
+- [ ] Een sprint review hebt (be)(ge)geleid
 
