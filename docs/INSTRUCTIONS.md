@@ -12,7 +12,7 @@ In het college S16W1-01-kickoff-do-not-repeat-yourself wordt de rol van een team
 
 ## Doel van deze opdracht
 
-Je leert hoe je als 2e jaars student overzicht houd over een project van 1e jaars studenten, de kwaliteit van design en code waarborgt en hoe je een sprint review kan voorbereiden en leiden. 
+Je leert hoe je als 2e jaars student overzicht houd over de look and feel van een project van 1e jaars studenten waarborgt, en daarmee met de kwaliteit van het design en de code. 
 
 
 ## Werkwijze
@@ -29,7 +29,6 @@ Je bent aanwezig bij de sprint planning in week 1, je houdt een vinger aan de po
 ## Criteria
 
 Focus sprint 16 -  In de sprint Don't Repeat Yourself ligt de focus op het hergebruik van code en ontwerpelementen.
-andere projecten.
 
 Deze deeltaak hoort bij het gedragscriterium:  
 ...
