@@ -28,11 +28,11 @@ Je bent aanwezig bij de sprint planning in week 1, je houdt een vinger aan de po
 
 ## Criteria
 
-Focus sprint 14 -  In de sprint Don't Repeat Yourself ligt de focus op het hergebruik van code en ontwerpelementen.
+Focus sprint 16 -  In de sprint Don't Repeat Yourself ligt de focus op het hergebruik van code en ontwerpelementen.
 andere projecten.
 
 Deze deeltaak hoort bij het gedragscriterium:  
-S: Student kan omgaan met diversiteit binnen teams en handelt respectvol naar anderen.
+...
 
 Deze opdracht is done als je:
 
