@@ -7,7 +7,7 @@ The Team Lead role in the Tribe
 
 Deze deeltaak hoort bij sprint 16 Don't Repeat Yourself. Dit is een deeltaak die je individueel uitvoert.
 
-In het college S16W1-01-kickoff-do-not-repeat-yourself wordt de rol van een team lead besproken.
+In het college S16W1-02-team-lead wordt deze opdracht uitgelegd
 
 
 ## Doel van deze opdracht
@@ -16,8 +16,6 @@ Je leert hoe je als 2e jaars student overzicht houd over de look and feel van ee
 
 
 ## Werkwijze
-
-Je leert hoe je als 2e jaars student de kwaliteit van design en code van een project van 1e jaars studenten waarborgt.
 
 Je bent aanwezig bij de sprint planning in week 1, je houdt een vinger aan de pols tijdens de weken en je bent in de _lead_ tijdens de sprint review. 
 
