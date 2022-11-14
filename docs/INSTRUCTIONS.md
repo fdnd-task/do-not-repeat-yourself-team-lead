@@ -29,7 +29,7 @@ Je bent aanwezig bij de sprint planning in week 1, je houdt een vinger aan de po
 Focus sprint 16 -  In de sprint Don't Repeat Yourself ligt de focus op het hergebruik van code en ontwerpelementen.
 
 Deze deeltaak hoort bij het gedragscriterium:  
-...
+Samenwerken: Je draagt verantwoording voor eigen resultaten, benoemt teamresultaten en informeert belanghebbenden over de voortgang
 
 Deze opdracht is done als je:
 
