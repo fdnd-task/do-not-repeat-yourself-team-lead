@@ -33,5 +33,5 @@ Samenwerken: Je draagt verantwoording voor eigen resultaten, benoemt teamresulta
 Deze opdracht is done als je:
 
 - [ ] Aantoonbaar overzicht hebt op een project van 1e jaars studenten
-- [ ] code/design review hebt begeleidt
+- [ ] De code/design review over de living styleguide hebt (be)(ge)geleid 
 
