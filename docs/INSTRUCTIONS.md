@@ -5,7 +5,7 @@ The Team Lead role in the Tribe
 
 ## Context
 
-Deze deeltaak hoort bij sprint 16 Don't Repeat Yourself. Dit is een deeltaak die je individueel uitvoert met een team eerstejaars.
+Deze deeltaak hoort bij sprint 16 Don't Repeat Yourself. Dit is een deeltaak die je individueel uitvoert met een team 1e jaars.
 
 In het college S16W1-02-Team-Lead-2 wordt deze opdracht verder uitgelegd.
 
